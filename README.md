@@ -1,3 +1,5 @@
+**Quiz App**
+
 I built this quiz app in my free time following a Youtube tutorial made by GreatStack:
 https://www.youtube.com/watch?v=PBcqGxrr9g8&ab_channel=GreatStack
 I made several changes to the template quiz app built by GreatStack:
